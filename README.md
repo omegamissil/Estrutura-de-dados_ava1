@@ -1,0 +1,1 @@
+Programa em **C** para gestão e análise estatística de notas acadêmicas. O sistema coleta duas notas de cada aluno, calcula a média individual, determina a média geral da turma e contabiliza o desempenho dos estudantes (acima e abaixo da média) utilizando matrizes, vetores e ponteiros.
